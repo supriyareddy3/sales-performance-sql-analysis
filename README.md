@@ -41,4 +41,14 @@ Before analysis, data cleaning and transformation steps were performed to ensure
 These insights can help improve sales strategy, optimize agent performance, and enhance product targeting.
 
 ---
+## 📷 Visualizations & Outputs
+
+### Revenue Trend Analysis
+![Revenue Trend](images/
+
+### Top Performing Sales Agents
+![Top Agents](images/
+
+### Product Performance
+![Product Performance](images/
 
