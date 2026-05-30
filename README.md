@@ -44,7 +44,7 @@ These insights can help improve sales strategy, optimize agent performance, and 
 ## 📷 Visualizations & Outputs
 
 ### Monthly Sales Opportunities Analysis
-![Revenue Trend](images/Monthly Sales Opportunities Analysis.png)
+![Revenue Trend](images/monthly_sales_opportunities_analysis.png)
 
 ### Top Performing Sales Agents
 ![Top Agents](images/sales agent performance.png)
